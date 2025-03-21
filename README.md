@@ -46,14 +46,6 @@ Au cours de mes diverses expériences, notemment chez Huawei, j’ai analysé de
 ---
 
  <h1 align="center">🌟 Projets Data & Dev </h1>
- 
- 📊 [**Dashboard Écolo – Suivi Empreinte Carbone Personnelle**](https://github.com/YassmineMarir/Dashboard-Suivi-Empreinte-Carbone) *(**(projet en cours)**)*
-  
-➡️ Analyse conso énergie, transport, alimentation.
-
-- Données : Estimations via API (comme CO2 emissions), relevés perso.
-
-- Features : Score carbone, comparaisons, tips pour réduire l’impact, objectifs verts.
 
  📊 [**Dashboard – Analyse Clients & Revenus**](https://github.com/YassmineMarir/Dashboard-customers-performance-analysis)
 
@@ -75,6 +67,14 @@ Au cours de mes diverses expériences, notemment chez Huawei, j’ai analysé de
 informations les plus importante.
 - Données : Base de données créé et manipulée via MYSQL.
 - Features : Réserver un trajet, Supprimer ou modifier la réservation, Noter le trajet effectué
+
+ 📊 [**Dashboard Écolo – Suivi Empreinte Carbone Personnelle**](https://github.com/YassmineMarir/Dashboard-Suivi-Empreinte-Carbone) *(**projet en cours**)*
+  
+➡️ Analyse conso énergie, transport, alimentation.
+
+- Données : Estimations via API (comme CO2 emissions), relevés perso.
+
+- Features : Score carbone, comparaisons, tips pour réduire l’impact, objectifs verts.
 
 👉 Prochains liens à venir… stay tuned !
 
